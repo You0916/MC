@@ -1,0 +1,29 @@
+lastAccountName: Dystopiia
+timestamps:
+  login: 1594509841612
+  logout: 1594522104213
+  lastteleport: 1594522104599
+ipAddress: 97.118.109.215
+logoutlocation:
+  world: world
+  x: -6626.49827474291
+  y: 79.0
+  z: 5403.509697751546
+  yaw: -52.921936
+  pitch: 33.02467
+afk: true
+lastlocation:
+  world: world_nether
+  x: 159.9049794209321
+  y: 88.0
+  z: 1.7360826849631361
+  yaw: 162.35597
+  pitch: 11.393238
+homes:
+  'yes':
+    world: world
+    x: -111.5
+    y: 86.0
+    z: -127.5
+    yaw: 0.0
+    pitch: 0.0

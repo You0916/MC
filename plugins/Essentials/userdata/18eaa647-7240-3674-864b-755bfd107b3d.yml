@@ -1,0 +1,28 @@
+lastAccountName: DrFriedChicken
+timestamps:
+  login: 1594517699812
+  lastteleport: 1594519380296
+  logout: 1594519926494
+ipAddress: 98.202.84.83
+lastlocation:
+  world: world
+  x: 546.3272737717116
+  y: 8.0
+  z: 20.30000001192093
+  yaw: 296.80453
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: 436.30000001192093
+    y: 65.5625
+    z: -56.30000001192093
+    yaw: 213.40111
+    pitch: 54.14995
+logoutlocation:
+  world: world
+  x: -117.5
+  y: 85.02159847259522
+  z: -119.5
+  yaw: 0.0
+  pitch: 0.0

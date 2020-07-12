@@ -1,0 +1,28 @@
+lastAccountName: Coffin_
+timestamps:
+  login: 1594575479170
+  lastteleport: 1594527844109
+  logout: 1594575488881
+ipAddress: 97.118.109.215
+lastlocation:
+  world: world
+  x: -9976.541227626933
+  y: 80.0
+  z: 11316.643996879004
+  yaw: 152.42865
+  pitch: 14.491167
+homes:
+  home:
+    world: world
+    x: -9973.5
+    y: 80.6875
+    z: 11316.5
+    yaw: 210.61371
+    pitch: 0.0
+logoutlocation:
+  world: world
+  x: -9970.127759658018
+  y: 81.0
+  z: 11326.08733683834
+  yaw: -270.1993
+  pitch: 34.480003

@@ -1,0 +1,35 @@
+lastAccountName: GiveCheesePlease
+timestamps:
+  login: 1594522717915
+  lastteleport: 1594523164842
+  logout: 1594522241735
+ipAddress: 66.25.227.54
+lastlocation:
+  world: world_nether
+  x: 373.32766484620674
+  y: 12.0
+  z: 49.30000001192093
+  yaw: 276.79794
+  pitch: 13.421053
+homes:
+  portal:
+    world: world
+    x: 1017.0840226193194
+    y: 64.0
+    z: -900.4380507665372
+    yaw: 204.13318
+    pitch: 30.3
+  home:
+    world: world
+    x: 1022.6631290101435
+    y: 96.0
+    z: -729.773384235044
+    yaw: 228.2799
+    pitch: -2.0999155
+logoutlocation:
+  world: world_nether
+  x: 359.5435645506801
+  y: 12.0
+  z: 51.74859914314898
+  yaw: -358.36993
+  pitch: 26.399998

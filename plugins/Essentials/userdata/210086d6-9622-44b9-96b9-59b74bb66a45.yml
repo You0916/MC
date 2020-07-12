@@ -1,0 +1,28 @@
+lastAccountName: CrindaicAnElatas
+timestamps:
+  login: 1594549359870
+  logout: 1594550702132
+  lastteleport: 1594540684366
+ipAddress: 203.81.241.170
+logoutlocation:
+  world: world
+  x: 1142.5778082277468
+  y: 65.0
+  z: -1859.15737891347
+  yaw: 1.0750732
+  pitch: 57.741894
+lastlocation:
+  world: world
+  x: -249.43999846826298
+  y: 67.0
+  z: -151.86411301476744
+  yaw: -241.82562
+  pitch: 8.777726
+homes:
+  home:
+    world: world
+    x: 1142.187239694897
+    y: 64.0
+    z: -1855.7063189015623
+    yaw: 166.86786
+    pitch: 29.433674

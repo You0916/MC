@@ -1,0 +1,35 @@
+lastAccountName: HeavyWeevil41
+timestamps:
+  login: 1594518008862
+  logout: 1594521231534
+  lastteleport: 1594520806992
+ipAddress: 68.108.61.237
+lastlocation:
+  world: world_nether
+  x: -734.5335358587447
+  y: 26.90247170136243
+  z: -263.0239371660498
+  yaw: 270.44867
+  pitch: 84.900215
+logoutlocation:
+  world: world
+  x: -60.76242860859823
+  y: 67.0
+  z: -260.1006452485627
+  yaw: -148.65025
+  pitch: 9.749911
+homes:
+  magmacube:
+    world: world_nether
+    x: -855.6999999880791
+    y: 47.0
+    z: -46.30000001192092
+    yaw: 229.03798
+    pitch: 42.1499
+  nether:
+    world: world_nether
+    x: -749.8476312807373
+    y: 51.0
+    z: -260.9926317944535
+    yaw: 103.49725
+    pitch: -12.299876

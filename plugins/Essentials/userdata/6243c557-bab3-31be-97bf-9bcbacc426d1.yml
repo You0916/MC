@@ -1,0 +1,35 @@
+lastAccountName: _nagini
+timestamps:
+  login: 1594515845362
+  lastteleport: 1594519009493
+  logout: 1594519190740
+ipAddress: 217.121.44.250
+lastlocation:
+  world: world
+  x: 11.699999988079073
+  y: 11.0
+  z: -785.6999999880791
+  yaw: -284.7099
+  pitch: 6.1968584
+homes:
+  home:
+    world: world
+    x: 8.33937086622825
+    y: 52.0
+    z: -746.2688978305366
+    yaw: 174.69861
+    pitch: 31.64307
+  mine:
+    world: world
+    x: 8.35321818005425
+    y: 11.0
+    z: -783.562571865441
+    yaw: -176.80113
+    pitch: 11.625055
+logoutlocation:
+  world: world
+  x: 8.729428412137949
+  y: 52.0
+  z: -747.8033826171057
+  yaw: 24.056257
+  pitch: 28.250248

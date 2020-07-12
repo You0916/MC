@@ -1,0 +1,77 @@
+lastAccountName: googoopuffman
+timestamps:
+  login: 1594522757675
+  lastteleport: 1594523290342
+  logout: 1594522103089
+ipAddress: 73.9.63.249
+lastlocation:
+  world: world
+  x: -16.388563123330044
+  y: 72.0
+  z: -127.18452264640923
+  yaw: -89.32054
+  pitch: 32.605156
+homes:
+  home:
+    world: world
+    x: -19.48779545171603
+    y: 72.0
+    z: -127.6510304492101
+    yaw: 49.37845
+    pitch: -4.42733
+  nether:
+    world: world
+    x: 82.5791760379094
+    y: 71.5
+    z: 885.0181791491524
+    yaw: 323.9675
+    pitch: 32.160393
+  nethertop:
+    world: world_nether
+    x: -441.354996902944
+    y: 128.0
+    z: 165.36459714068647
+    yaw: -355.52606
+    pitch: 15.935207
+  fortress:
+    world: world_nether
+    x: -444.5604295347145
+    y: 73.0
+    z: 141.65343363013903
+    yaw: 18.90242
+    pitch: 28.912308
+  spawner:
+    world: world_nether
+    x: -541.9980323832897
+    y: 54.0
+    z: 189.31077354816338
+    yaw: 87.360596
+    pitch: 27.413235
+  temp:
+    world: world
+    x: 997.3647680522855
+    y: 65.0
+    z: -875.5200446037147
+    yaw: 210.76031
+    pitch: 14.046352
+  abovefortress:
+    world: world
+    x: 1278.291607195188
+    y: 64.0
+    z: -987.6935645745464
+    yaw: 204.94037
+    pitch: 16.794456
+  portal:
+    world: world
+    x: 1284.778610894933
+    y: 29.0
+    z: -1005.4327459369719
+    yaw: 177.77869
+    pitch: 28.037857
+logoutlocation:
+  world: world_nether
+  x: 129.7327876804645
+  y: 75.0
+  z: -87.59966560644925
+  yaw: -196.99231
+  pitch: 6.6759043

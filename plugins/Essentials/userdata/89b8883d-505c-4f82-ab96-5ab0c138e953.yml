@@ -1,0 +1,28 @@
+lastAccountName: googoopuffman
+timestamps:
+  login: 1594577551370
+  lastteleport: 1594577906037
+  logout: 1594578437087
+ipAddress: 73.9.63.249
+lastlocation:
+  world: world
+  x: 1285.4584388283747
+  y: 20.0
+  z: -996.6464778800593
+  yaw: -7.0742188
+  pitch: 80.131004
+homes:
+  home:
+    world: world
+    x: 1284.1337880973963
+    y: 29.0
+    z: -1005.1746446670726
+    yaw: -151.07426
+    pitch: 20.792267
+logoutlocation:
+  world: world
+  x: -0.4855011851831743
+  y: 59.0
+  z: -125.35755295977133
+  yaw: -92.84574
+  pitch: 46.666576

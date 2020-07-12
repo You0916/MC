@@ -1,0 +1,123 @@
+[00:12:52] [Server thread/INFO]: AlanDrawsOP4 was slain by Enderman
+[00:12:56] [Server thread/INFO]: AlanDrawsOP4 issued server command: /back
+[00:30:37] [Server thread/INFO]: AlanDrawsOP4 has made the advancement [Take Aim]
+[00:43:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@51c26701[id=<null>,name=dkjole28,properties={},legacy=false] (/93.142.217.132:57949) lost connection: Disconnected
+[01:02:05] [Server thread/INFO]: AlanDrawsOP4 has made the advancement [Ice Bucket Challenge]
+[01:03:16] [Server thread/INFO]: AlanDrawsOP4 issued server command: /home\
+[01:03:18] [Server thread/INFO]: AlanDrawsOP4 tried to swim in lava
+[01:08:14] [Server thread/INFO]: AlanDrawsOP4 issued server command: /home
+[01:08:37] [Server thread/INFO]: AlanDrawsOP4 issued server command: /back
+[01:08:39] [Server thread/INFO]: AlanDrawsOP4 issued server command: /back
+[01:12:02] [Server thread/INFO]: AlanDrawsOP4 issued server command: /back
+[01:12:13] [Server thread/INFO]: AlanDrawsOP4 issued server command: /home
+[01:15:49] [Server thread/INFO]: AlanDrawsOP4 issued server command: /home
+[01:17:08] [Server thread/INFO]: AlanDrawsOP4 issued server command: /home
+[01:20:53] [Server thread/INFO]: AlanDrawsOP4 was slain by Enderman
+[01:20:58] [Server thread/INFO]: AlanDrawsOP4 issued server command: /back
+[01:22:10] [Server thread/INFO]: AlanDrawsOP4 lost connection: Disconnected
+[01:22:10] [Server thread/INFO]: AlanDrawsOP4 left the game
+[01:37:58] [User Authenticator #38/INFO]: UUID of player Coffin_ is 902803b7-7574-448c-82a6-484b70bcad68
+[01:37:59] [Server thread/INFO]: Coffin_ joined the game
+[01:37:59] [Server thread/INFO]: Coffin_[/97.118.109.215:50389] logged in with entity id 217305 at ([world]-9966.639051261598, 80.0, 11321.33490756638)
+[01:38:08] [Server thread/INFO]: Coffin_ lost connection: Disconnected
+[01:38:08] [Server thread/INFO]: Coffin_ left the game
+[01:42:51] [User Authenticator #39/INFO]: UUID of player AlanDrawsOP4 is ac165455-ec78-4291-a8be-a157d247f4eb
+[01:42:52] [Server thread/INFO]: AlanDrawsOP4 joined the game
+[01:42:52] [Server thread/INFO]: AlanDrawsOP4[/73.98.197.116:62623] logged in with entity id 217607 at ([world]209.77591495836174, 63.0, -301.0871886557485)
+[01:46:41] [Server thread/INFO]: AlanDrawsOP4 was slain by Zombie
+[02:05:22] [User Authenticator #40/INFO]: UUID of player antdd29 is 4923083a-ef76-4807-a080-7f9f55f49321
+[02:05:22] [Server thread/INFO]: antdd29 joined the game
+[02:05:22] [Server thread/INFO]: antdd29[/64.121.205.31:63373] logged in with entity id 218170 at ([world]957.1465548923252, 72.0, -74.22167102360609)
+[02:05:54] [Server thread/INFO]: antdd29 lost connection: Disconnected
+[02:05:54] [Server thread/INFO]: antdd29 left the game
+[02:11:08] [User Authenticator #41/INFO]: UUID of player Dougiie is eeb06af6-e1b2-47bd-a6c0-d6ffa810dee5
+[02:11:08] [Server thread/INFO]: Dougiie joined the game
+[02:11:08] [Server thread/INFO]: Dougiie[/81.204.162.58:60008] logged in with entity id 218539 at ([world]-107.5, 86.0, -119.5)
+[02:11:08] [pool-12-thread-1/INFO]: [Essentials] Creating empty config: /home/yuangao/MC/plugins/Essentials/userdata/eeb06af6-e1b2-47bd-a6c0-d6ffa810dee5.yml
+[02:11:56] [Server thread/INFO]: Dougiie lost connection: Disconnected
+[02:11:56] [Server thread/INFO]: Dougiie left the game
+[02:12:31] [User Authenticator #42/INFO]: UUID of player googoopuffman is 89b8883d-505c-4f82-ab96-5ab0c138e953
+[02:12:31] [Server thread/INFO]: googoopuffman joined the game
+[02:12:31] [Server thread/INFO]: googoopuffman[/73.9.63.249:50860] logged in with entity id 218714 at ([world_the_end]-351.3097944750294, 58.0, 1860.3274247469371)
+[02:12:46] [Async Chat Thread - #44/INFO]: <googoopuffman> oh tight forgot i was still in the end
+[02:12:51] [Async Chat Thread - #44/INFO]: <googoopuffman> right*
+[02:14:52] [User Authenticator #43/INFO]: UUID of player Dougiie is eeb06af6-e1b2-47bd-a6c0-d6ffa810dee5
+[02:14:52] [Server thread/INFO]: Dougiie joined the game
+[02:14:52] [Server thread/INFO]: Dougiie[/81.204.162.58:60078] logged in with entity id 218941 at ([world]-112.2202016870574, 86.0, -122.61303847572589)
+[02:14:57] [Async Chat Thread - #45/INFO]: <googoopuffman> hi
+[02:15:00] [Async Chat Thread - #45/INFO]: <Dougiie> Hi
+[02:15:49] [Async Chat Thread - #45/INFO]: <Dougiie> Wheres everyone?
+[02:15:53] [Async Chat Thread - #45/INFO]: <googoopuffman> in the end
+[02:15:57] [Async Chat Thread - #45/INFO]: <Dougiie> wut?
+[02:16:08] [Server thread/INFO]: googoopuffman issued server command: /tpahere Dougiie
+[02:16:12] [Async Chat Thread - #45/INFO]: <googoopuffman> im in the end
+[02:16:16] [Server thread/INFO]: Dougiie issued server command: /tpaccept
+[02:16:16] [Server thread/INFO]: Dougiie has made the advancement [The End?]
+[02:16:21] [Async Chat Thread - #45/INFO]: <Dougiie> LMAO
+[02:16:35] [Async Chat Thread - #45/INFO]: <googoopuffman> i also have the dragon egg
+[02:16:47] [Server thread/INFO]: googoopuffman issued server command: /echest
+[02:16:55] [Server thread/INFO]: googoopuffman issued server command: /echest
+[02:17:14] [Async Chat Thread - #45/INFO]: <Dougiie> Wheres Alan?
+[02:17:18] [Async Chat Thread - #45/INFO]: <googoopuffman> idk
+[02:18:04] [Async Chat Thread - #45/INFO]: <googoopuffman> aight time to /home
+[02:18:08] [Server thread/INFO]: Dougiie issued server command: /home
+[02:18:24] [Async Chat Thread - #45/INFO]: <googoopuffman> i wonder if they fixed the chest bug
+[02:18:26] [Server thread/INFO]: googoopuffman issued server command: /home
+[02:19:04] [Async Chat Thread - #45/INFO]: <googoopuffman> time to suicide cuz owner isnt great at running server so i can only have 1 home even tho before restart you could have 10
+[02:19:07] [Server thread/INFO]: googoopuffman fell from a high place
+[02:19:15] [Async Chat Thread - #45/INFO]: <Dougiie> F.
+[02:19:16] [User Authenticator #44/INFO]: UUID of player _Mehh_ is 25163474-fd88-403f-aba1-fac50d4cf763
+[02:19:17] [Server thread/INFO]: _Mehh_ joined the game
+[02:19:17] [Server thread/INFO]: _Mehh_[/83.233.102.243:54022] logged in with entity id 225286 at ([world]-110.5, 85.0, -130.5)
+[02:19:17] [pool-12-thread-1/INFO]: [Essentials] Creating empty config: /home/yuangao/MC/plugins/Essentials/userdata/25163474-fd88-403f-aba1-fac50d4cf763.yml
+[02:19:20] [Async Chat Thread - #45/INFO]: <googoopuffman> hi
+[02:19:25] [Async Chat Thread - #45/INFO]: <_Mehh_> Howdy!
+[02:19:29] [Async Chat Thread - #45/INFO]: <Dougiie> Howdy!
+[02:19:35] [Async Chat Thread - #45/INFO]: <googoopuffman> hi
+[02:19:46] [Async Chat Thread - #45/INFO]: <_Mehh_> Brand spanking new I see :D
+[02:19:54] [Async Chat Thread - #45/INFO]: <Dougiie> Jupp
+[02:20:01] [Async Chat Thread - #45/INFO]: <_Mehh_> Anyone wanna get into a VC and Just talk? Lonely af Here in Corona times :D
+[02:20:12] [Async Chat Thread - #45/INFO]: <Dougiie> Me
+[02:20:25] [Async Chat Thread - #45/INFO]: <Dougiie> Im in VC
+[02:22:20] [Server thread/INFO]: _Mehh_ has made the advancement [Stone Age]
+[02:22:41] [Server thread/INFO]: _Mehh_ has made the advancement [Getting an Upgrade]
+[02:23:50] [Server thread/INFO]: Dougiie was slain by Polar Bear
+[02:26:43] [Server thread/INFO]: _Mehh_ has made the advancement [Monster Hunter]
+[02:26:51] [Server thread/INFO]: Dougiie has made the advancement [Stone Age]
+[02:27:17] [Server thread/INFO]: googoopuffman lost connection: Disconnected
+[02:27:17] [Server thread/INFO]: googoopuffman left the game
+[02:28:25] [Server thread/INFO]: Dougiie has made the advancement [Monster Hunter]
+[02:30:17] [Server thread/INFO]: Dougiie issued server command: /tpask _Mehh_
+[02:30:25] [Server thread/INFO]: _Mehh_ issued server command: /tpaccept
+[02:33:02] [Server thread/INFO]: _Mehh_ has made the advancement [Acquire Hardware]
+[02:33:13] [Server thread/INFO]: _Mehh_ has made the advancement [Isn't It Iron Pick]
+[02:34:28] [Server thread/INFO]: Dougiie has made the advancement [Isn't It Iron Pick]
+[02:34:38] [Server thread/INFO]: Dougiie has made the advancement [Getting an Upgrade]
+[02:34:43] [Server thread/INFO]: Dougiie has made the advancement [Acquire Hardware]
+[02:35:32] [Server thread/WARN]: _Mehh_ moved wrongly!
+[02:35:43] [User Authenticator #45/WARN]: [LuckPerms] LuckPerms already has data for player 'Emilythedancer' - but this data is stored under a different UUID.
+[02:35:43] [User Authenticator #45/WARN]: [LuckPerms] 'Emilythedancer' has previously used the unique ids [d456cc52-ea4b-3cea-89a3-07fd299fe2de] but is now connecting with '5c35a49b-2b1f-4acf-a76a-29233efba68f'
+[02:35:43] [User Authenticator #45/WARN]: [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[02:35:43] [User Authenticator #45/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[02:35:43] [User Authenticator #45/WARN]: [LuckPerms] See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[02:35:43] [User Authenticator #45/INFO]: UUID of player Emilythedancer is 5c35a49b-2b1f-4acf-a76a-29233efba68f
+[02:35:43] [Server thread/WARN]: Using offline mode UUID file for player Emilythedancer as it is the only copy we can find.
+[02:35:43] [Server thread/INFO]: Emilythedancer joined the game
+[02:35:43] [Server thread/INFO]: Emilythedancer[/73.137.34.187:62065] logged in with entity id 229891 at ([world]-209.72354010476587, 70.0, -11.686315584954533)
+[02:35:43] [Craft Scheduler Thread - 1096/INFO]: [Essentials] Found new UUID for Emilythedancer. Replacing d456cc52-ea4b-3cea-89a3-07fd299fe2de with 5c35a49b-2b1f-4acf-a76a-29233efba68f
+[02:35:43] [pool-12-thread-1/INFO]: [Essentials] Creating empty config: /home/yuangao/MC/plugins/Essentials/userdata/5c35a49b-2b1f-4acf-a76a-29233efba68f.yml
+[02:35:47] [Async Chat Thread - #46/INFO]: <_Mehh_> Heyo :)
+[02:35:52] [Async Chat Thread - #46/INFO]: <Dougiie> Howdy
+[02:36:02] [Server thread/INFO]: _Mehh_ has made the advancement [Suit Up]
+[02:36:04] [Async Chat Thread - #46/INFO]: <Emilythedancer> Helloo
+[02:36:11] [Async Chat Thread - #46/INFO]: <_Mehh_> You new here too?
+[02:36:23] [Async Chat Thread - #46/INFO]: <Emilythedancer> I joined yesterday so kinda lmao
+[02:36:37] [Async Chat Thread - #46/INFO]: <_Mehh_> lmao Joined today just like idk 15-20 min ago
+[02:36:50] [Server thread/INFO]: Emilythedancer has made the advancement [Stone Age]
+[02:37:44] [Async Chat Thread - #47/INFO]: <_Mehh_> No regrets my guy Just mining straight down
+[02:37:50] [Async Chat Thread - #47/INFO]: <Dougiie> xD
+[02:38:23] [Server thread/INFO]: Emilythedancer has made the advancement [Getting an Upgrade]
+[02:38:43] [Server thread/INFO]: Dougiie has made the advancement [Diamonds!]
+[02:41:04] [Async Chat Thread - #48/INFO]: <_Mehh_> Anyone got some extra food? I'm slowly Dying :D
+[02:42:20] [Async Chat Thread - #49/INFO]: <_Mehh_> We're In a VC me and Dougiie If anyone wanna join :)
+[02:42:28] [Async Chat Thread - #49/INFO]: <Dougiie> jupp

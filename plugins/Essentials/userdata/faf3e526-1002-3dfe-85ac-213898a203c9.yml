@@ -1,0 +1,29 @@
+lastAccountName: AlanDrawsOP4
+timestamps:
+  login: 1594523231126
+  logout: 1594523293389
+  lastteleport: 1594518945258
+ipAddress: 73.98.197.116
+logoutlocation:
+  world: world
+  x: 389.351261581315
+  y: 59.50462170970839
+  z: -90.33356151726048
+  yaw: 123.922424
+  pitch: -9.764024
+homes:
+  home:
+    world: world
+    x: 439.4184183349913
+    y: 65.0
+    z: -61.998008169020025
+    yaw: -6.220154
+    pitch: 22.737757
+lastlocation:
+  world: world
+  x: -117.32188379385117
+  y: 69.6037636546968
+  z: -181.01770563585308
+  yaw: -10.872894
+  pitch: 32.73634
+afk: false
